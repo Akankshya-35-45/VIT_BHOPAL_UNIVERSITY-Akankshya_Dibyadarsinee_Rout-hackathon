@@ -5,7 +5,7 @@
 **College Email ID:** akankshya.24bai10724@vitbhopal.ac.in
 **College / Campus:** VIT BHOPAL UNIVERSITY/ Bhopal Campus
 **Demo Video Link:** [YouTube / Unlisted]
-**Slide Deck:** [View Presentation Deck](docs/vitb_Akankshya_hackathon.pdf)
+**Slide Deck:** [View Presentation Deck](docs/vitb_Akankshya_hackathon.pptx)
 
 **Repository:**  
 https://github.com/Akankshya-35-45/VIT_BHOPAL_UNIVERSITY-Akankshya_Dibyadarsinee_Rout-hackathon
