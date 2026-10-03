@@ -383,7 +383,7 @@ The dashboard then calculates and displays:
 
 The dashboard provides a structured view of detected financial risk signals.
 
-![Risk Intelligence Dashboard](docs/risk-intelligence.png)
+![Risk Intelligence Dashboard](![Risk Intelligence](docs/risk-intelligence-dashboard.png))
 
 ### Strategic Portfolio Stress Testing
 
