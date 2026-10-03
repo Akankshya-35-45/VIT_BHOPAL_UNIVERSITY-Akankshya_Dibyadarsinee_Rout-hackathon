@@ -389,7 +389,7 @@ The dashboard provides a structured view of detected financial risk signals.
 
 The stress-testing module displays portfolio-level and asset-level scenario impact.
 
-![Portfolio Stress Testing](docs/portfolio-stress-testing.png)
+![Portfolio Stress Testing](docs/![Portfolio Stress Testing](docs/portfolio-stress-testing.png.png))
 
 > If these screenshot files are not included in `docs/`, remove the image references above or add the corresponding screenshots to the folder.
 
