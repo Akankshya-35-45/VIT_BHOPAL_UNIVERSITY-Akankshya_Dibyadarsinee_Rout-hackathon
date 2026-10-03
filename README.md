@@ -1,8 +1,11 @@
 # RiskPulse AI — S&P Global & CRISIL Campus Hackathon 2026
 
-**Candidate Name:** Akankshya Dibyadarsinee Rout  
-**College / Campus:** VIT Bhopal University  
 **Project:** AI/NLP Financial Risk Intelligence Engine + Strategic Portfolio Stress Testing  
+**Candidate Name:** Akankshya Dibyadarsinee Rout  
+**College Email ID:** akankshya.24bai10724@vitbhopal.ac.in
+**College / Campus:** VIT BHOPAL UNIVERSITY/ Bhopal Campus
+**Demo Video Link:** [YouTube / Unlisted]
+**Slide Deck:** [View Presentation Deck](docs/vitb_Akankshya_hackathon.pdf)
 
 **Repository:**  
 https://github.com/Akankshya-35-45/VIT_BHOPAL_UNIVERSITY-Akankshya_Dibyadarsinee_Rout-hackathon
@@ -776,7 +779,6 @@ Future versions could include:
 The repository contains the synthetic datasets required to demonstrate the core workflow.
 
 The portfolio stress-testing module remains reproducible even if external live-news sources are temporarily unavailable.
-
 The synthetic datasets allow the core demonstration to be executed locally without requiring confidential or proprietary information.
 
 ---
@@ -784,11 +786,9 @@ The synthetic datasets allow the core demonstration to be executed locally witho
 ## 20. Responsible Data Usage
 
 This project follows the hackathon requirement of avoiding confidential client information.
-
 No confidential S&P Global or CRISIL data is used.
 
 The project uses:
-
 - Publicly available news data
 - Synthetic social-media data
 - Synthetic portfolio data
