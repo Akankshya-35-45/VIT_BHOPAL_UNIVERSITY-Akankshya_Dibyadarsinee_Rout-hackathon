@@ -564,31 +564,35 @@ The core prototype remains usable without NewsAPI.
 
 ## 14. Repository Structure
 
+## Repository Structure
+
 ```text
 VIT_BHOPAL_UNIVERSITY-Akankshya_Dibyadarsinee_Rout-hackathon/
-│
 ├── README.md
-├── requirements.txt
 ├── LICENSE
-├── .gitignore
-├── .env.example
+├── requirements.txt
 ├── app.py
-│
-├── src/
-│   ├── risk_engine.py
-│   ├── ingestion.py
-│   ├── stress_test.py
-│   └── api.py
+├── DEMO_SCRIPT.md
+├── RESUME_READY.md
+├── SUBMISSION_CHECKLIST.md
+├── .env.example
+├── .gitignore
 │
 ├── data/
-│   ├── social_posts.csv
-│   └── portfolio.csv
+│   └── synthetic / sample datasets
+│
+├── src/
+│   └── application and risk-engine source code
 │
 └── docs/
     ├── presentation.pdf
+    ├── vitb_Akankshya_hackathon.pptx
     ├── architecture.png
-    ├── risk-intelligence.png
-    └── portfolio-stress-testing.png
+    ├── RiskPulse AI System Architecture.png
+    ├── risk-intelligence-dashboard.png
+    ├── portfolio-stress-testing.png
+    ├── stress-test-results.png
+    └── DATA_SOURCES.md
 ```
 
 ---
