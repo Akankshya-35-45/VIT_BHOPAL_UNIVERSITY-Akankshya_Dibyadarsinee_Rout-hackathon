@@ -1,0 +1,11 @@
+asset_id,asset_type,name,market_value
+A01,Equity,TechCo,1800000
+A02,Equity,MegaRetail,1200000
+A03,Bond,GovBond-10Y,1600000
+A04,Bond,CorpBond-A,900000
+A05,Loan,Corporate Loan A,1300000
+A06,Loan,SME Loan Pool,800000
+A07,Derivative,Equity Index Future,700000
+A08,Derivative,FX Forward,500000
+A09,Equity,EnergyCo,1100000
+A10,Loan,Commercial Loan B,1000000
