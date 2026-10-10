@@ -4,7 +4,7 @@
 **Candidate Name:** Akankshya Dibyadarsinee Rout  
 **College Email ID:** akankshya.24bai10724@vitbhopal.ac.in
 **College / Campus:** VIT BHOPAL UNIVERSITY/ Bhopal Campus
-**Demo Video Link:** [YouTube / Unlisted]
+**Demo Video Link:** https://youtu.be/ORsvYB_gTlE
 **Slide Deck:** [View Presentation Deck](docs/vitb_Akankshya_hackathon.pdf)
 
 **Repository:**  
