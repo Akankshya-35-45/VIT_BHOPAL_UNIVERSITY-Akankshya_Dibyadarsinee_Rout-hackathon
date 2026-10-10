@@ -12,7 +12,7 @@ https://github.com/Akankshya-35-45/VIT_BHOPAL_UNIVERSITY-Akankshya_Dibyadarsinee
 
 **Demo Video:**
 
-[Watch RiskPulse AI Demo](https://youtu.be/ORsvYB_gTIE)
+[Watch RiskPulse AI Demo](https://youtu.be/ORsvYB_gTlE)
 
 **Presentation:**  
 `docs/presentation.pdf`
